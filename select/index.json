@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "World in Motion",
+  "base_artist": "New Order",
+  "createdAt": "2026-03-25T03:52:50.247903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "World In Motion",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/01_World_In_Motion_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "World in Motion (Single Version)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/02_World_in_Motion_(Single_Version)_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "World In Motion (Carabinieri Mix)",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/03_World_In_Motion_(Carabinieri_Mix)_New_Order.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "World In Motion - 2015 Remastered Version",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/04_World_In_Motion_-_2015_Remastered_Version_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "World in Motion",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/05_World_in_Motion_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "World In Motion",
+      "artist": "Jackson Browne",
+      "has_synced": false,
+      "path": "select/06_World_In_Motion_Jackson_Browne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "World In Motion",
+      "artist": "Englandneworder",
+      "has_synced": false,
+      "path": "select/07_World_In_Motion_Englandneworder.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "World In Motion",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/08_World_In_Motion_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "World in Motion [Cabinieri Mix]",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/09_World_in_Motion_[Cabinieri_Mix]_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "World In Motion (Carabinieri Mix)",
+      "artist": "England New Order",
+      "has_synced": true,
+      "path": "select/10_World_In_Motion_(Carabinieri_Mix)_England_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "World in Motion",
+      "artist": "DJ Bobo",
+      "has_synced": false,
+      "path": "select/11_World_in_Motion_DJ_Bobo.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "World in Motion - Gira el Mundo",
+      "artist": "DJ Bobo",
+      "has_synced": true,
+      "path": "select/12_World_in_Motion_-_Gira_el_Mundo_DJ_Bobo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "World In Motion",
+      "artist": "Englandneworder",
+      "has_synced": true,
+      "path": "select/13_World_In_Motion_Englandneworder.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "World In Motion",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/pl_01_World_In_Motion_New_Order.txt"
+    }
+  ]
+}

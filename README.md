@@ -1,0 +1,70 @@
+# New Order – World in Motion
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Express yourself, create the space
+You know you can win, don't give up the chase
+Beat the man, take him on
+You never give up, it's one on one
+
+(Express yourself) It's one on one
+(Express yourself) It's one on one
+(Express yourself) You can't be wrong
+(Express yourself) When something's good, it's never gone
+
+Love's got the world in motion
+And I know what we can do
+Love's got the world in motion
+And I can't believe it's true
+
+Now is the time, let everyone see
+You never give up, that's how it should be
+Don't get caught, make your own play
+Express yourself, don't give it away
+
+(Express yourself) It's one on one
+(Express yourself) It's one on one
+(Express yourself) You can't be wrong
+(Express yourself) When something's good, it's never gone
+
+Love's got the world in motion
+And I know what we can do
+Love's got the world in motion
+And I can't believe it's true
+
+Love's got the world in motion
+And I know what we can do
+Love's got the world in motion
+And I can't believe it's true
+
+You've got to hold and give, but do it at the right time
+You can be slow or fast, but you must get to the line
+They'll always hit you and hurt you, defend and attack
+There's only one way to beat them, get 'round the back
+
+Catch me if you can, 'cause I'm the England man
+And what you're looking at is the master plan
+We ain't no hooligans, this ain't a football song
+Three lions on my chest, I know we can't go wrong
+
+We're playing for England {In-ger-land}
+We're playing the song
+We're singing for England {In-ger-land}
+Arrivederci, it's one on one
+
+We're playing for England {In-ger-land}
+We're playing the song
+We're singing for England {In-ger-land}
+Arrivederci, it's one on one
+
+We're playing for England {In-ger-land}
+We're playing the song
+We're singing for England {In-ger-land}
+Arrivederci, it's one on one
+
+We're playing for England {In-ger-land}
+We're playing the song
+We're singing for England {In-ger-land}
+Arrivederci, it's one on one
+```
